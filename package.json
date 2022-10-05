@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "name": "sploy-test",
+    "description": "Sploy test package",
+    "version": "1.0.0",
+    "repository": "https://github.com/peonii/sploy-test.git"
+  },
+  "dependencies": []
+}
